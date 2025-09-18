@@ -283,8 +283,8 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/flagpole.png", id:"flagpole"},
-		{src:"images/trying.png", id:"trying"}
+		{src:"./images/flagpole.png", id:"flagpole"},
+		{src:"./images/trying.png", id:"trying"}
 	],
 	preloads: []
 };
